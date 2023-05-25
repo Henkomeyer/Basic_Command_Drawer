@@ -1,3 +1,4 @@
+ // function for drawing a square, takes user input n as size of the shape
  function drawSquare(n)
 {   let squarePattern = "\nSquare Pattern: " + n + " X " + n + "\n";
 

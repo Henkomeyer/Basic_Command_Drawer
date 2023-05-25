@@ -1,3 +1,4 @@
+ // function for drawing a triangle, takes user input n as size of the shape
  function drawTriangle(n)
 {   let trianglePattern = "\nTriangle Pattern: " + n + "\n";
 

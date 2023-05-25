@@ -1,3 +1,4 @@
+ // function for drawing a diamond, takes user input n as size of the shape
  function drawDiamond(n)
 { 
     let diamondShape = "\nDiamond Shape:\n";
